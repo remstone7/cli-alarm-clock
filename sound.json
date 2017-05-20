@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "id": "song1",
+      "url": "https://www.youtube.com/watch?v=y5HNCw3VLB0"
+    },
+    {
+      "id": "song2",
+      "url": "https://www.youtube.com/watch?v=VNQRFAlFcZk"
+    },
+    {
+      "id": "song2",
+      "url": "https://www.youtube.com/watch?v=k_9cjo_qaDw"
+    }
+  ]
+}
